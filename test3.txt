@@ -1,3 +1,6 @@
 this is a test
+<<<<<<< HEAD
 this is also a test
 this is the real test
+=======
+>>>>>>> parent of aae3736... test commit 2
